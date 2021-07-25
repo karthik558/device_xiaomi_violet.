@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2021 xyzuan, xyzprjkt
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- xd. About Phone -->
+    <string name="xd_device_name_summary">Redmi Note 7 Pro</string>
+    <string name="xd_chipset_type_summary">Qualcomm Snapdragon™ 675</string>
+    <string name="xd_gpu_summary">Adreno 612</string>
+    <string name="xd_camera_mp_summary">48MP+12MP Dual Camera</string>
+    <string name="xd_screen_type_summary">IPS LCD FHD+ 6.3 Screen</string>
+
+</resources>
